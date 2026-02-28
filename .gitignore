@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 python-agent-ai/.venv
+.env
+.venv
+.idea
